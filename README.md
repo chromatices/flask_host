@@ -4,7 +4,7 @@ flask host for test
 ### Usage
 - shell(local, recommanded)
 ```shell
-python main.py
+python src/rest-host.py
 ```
 
 - docker
