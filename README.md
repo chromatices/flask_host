@@ -1,5 +1,5 @@
-# rest_host
-rest host for test
+# flask_host
+flask host for test
 
 ### Usage
 - shell(local, recommanded)
