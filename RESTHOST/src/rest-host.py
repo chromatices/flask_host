@@ -15,6 +15,7 @@ def test():
     # receive POST data
     params = request.get_data()
     received_params = json.loads(params.decode('utf-8'))
+    print(received_params)
 
     # error occur if json has different keys
     if len(list(received_params.keys())) != 3:
